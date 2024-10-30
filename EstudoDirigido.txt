@@ -1,0 +1,49 @@
+Respostas ao estudo dirigido:
+
+1. O que estuda a Biologia Molecular e quais suas principais aplicações?
+A Biologia Molecular estuda a estrutura, função e composição das moléculas biológicas essenciais, como DNA, RNA e proteínas. Suas principais aplicações incluem genética, medicina molecular, biotecnologia, estudos sobre doenças genéticas e desenvolvimento de terapias gênicas.
+
+2. Qual a diferença entre Nucleosídeo e Nucleotídeo?
+Um nucleosídeo é composto por uma base nitrogenada ligada a uma pentose (açúcar). Um nucleotídeo é um nucleosídeo com um ou mais grupos fosfato adicionados. Assim, o nucleotídeo possui base, açúcar e fosfato.
+
+3. Como Gregor Mendel contribuiu para o desenvolvimento da Biologia Molecular?
+Gregor Mendel é considerado o pai da genética por suas descobertas sobre a hereditariedade através dos estudos com ervilhas. Seus princípios foram fundamentais para entender como as características são transmitidas de uma geração para outra, servindo como base para os estudos moleculares do DNA.
+
+4. O que é Gene?
+Um gene é uma sequência específica de DNA que contém a informação necessária para a síntese de proteínas ou RNAs funcionais, desempenhando papéis importantes na determinação das características de um organismo.
+
+5. Quais as unidades básicas formadoras do DNA?
+As unidades básicas formadoras do DNA são os nucleotídeos, que incluem uma base nitrogenada, um açúcar (desoxirribose) e um grupo fosfato.
+
+6. Como são formados os nucleotídeos?
+Os nucleotídeos são formados pela união de uma base nitrogenada (adenina, timina, citosina ou guanina no caso do DNA), uma pentose (desoxirribose para o DNA) e um grupo fosfato.
+
+7. Qual a diferença entre a ribose e a desoxirribose? Qual dessas pentoses corresponde o DNA e qual corresponde o RNA?
+A ribose é um açúcar com um grupo hidroxila (-OH) no carbono 2', enquanto a desoxirribose possui um hidrogênio no lugar desse grupo (-H). A ribose está presente no RNA, e a desoxirribose está presente no DNA.
+
+8. Qual a diferença entre as bases purinas e pirimidinas?
+As purinas (adenina e guanina) têm uma estrutura de anel duplo, enquanto as pirimidinas (timina, citosina e uracila no RNA) têm uma estrutura de anel simples.
+
+9. Se a soma das bases nitrogenadas AT em uma molécula de DNA é de 36%, quais são as quantidades dos conteúdos de todas as bases?
+Se AT é 36%, isso significa que cada uma (A e T) representa 18%. Como o DNA é complementar, G e C juntas somam os 64% restantes, ou seja, 32% cada.
+
+10. Quais são as bases purinas do DNA e do RNA?
+No DNA e RNA, as bases purinas são a adenina (A) e a guanina (G).
+
+11. Quais são as bases pirimidinas do DNA e do RNA?
+No DNA, as bases pirimidinas são citosina (C) e timina (T). No RNA, são citosina (C) e uracila (U).
+
+12. Onde são realizadas as ligações glicosídicas, fosfodiéster e ligações de hidrogênio na estrutura do DNA?
+Ligações glicosídicas: entre a base nitrogenada e o açúcar.
+Ligações fosfodiéster: entre os grupos fosfato e os açúcares, ligando nucleotídeos adjacentes na cadeia.
+Ligações de hidrogênio: entre bases nitrogenadas complementares nas duas fitas do DNA (A com T e C com G).
+
+13. Sobre as ligações de hidrogênio no DNA responda quantas existem entre a citosina e a guanina e quantas existem entre adenina e timina?
+Existem três ligações de hidrogênio entre citosina e guanina (C-G) e duas ligações de hidrogênio entre adenina e timina (A-T).
+
+14. Qual o sentido da formação do DNA e como ocorre?
+O DNA é formado no sentido 5' para 3', onde novas bases se adicionam ao grupo 3' OH do nucleotídeo em crescimento. A replicação ocorre com uma fita servindo de molde para a síntese da fita complementar.
+
+15. Qual a diferença entre DNA e RNA?
+O DNA possui desoxirribose como açúcar e as bases adenina, citosina, guanina e timina. É geralmente de fita dupla.
+O RNA possui ribose como açúcar e as bases adenina, citosina, guanina e uracila. É geralmente de fita simples e atua principalmente na síntese de proteínas.
